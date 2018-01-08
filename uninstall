@@ -1,3 +1,0 @@
-local script="S51customboxart"
-rm "$rootfs/etc/init.d/$script"
-rm -r "$installpath/boxart/"
